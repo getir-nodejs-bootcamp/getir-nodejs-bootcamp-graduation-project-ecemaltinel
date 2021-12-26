@@ -1,0 +1,14 @@
+{"level":"error","message":"There is no such endpoint as /recordss"}
+{"level":"error","message":"There is no such endpoint as /recordss","timestamp":"2021-12-26T14:48:19.872Z"}
+{"level":"error","message":"There is no such endpoint as /recordss","timestamp":"2021-12-26T14:59:31.868Z"}
+{"level":"error","message":"recordList.json is not a function","timestamp":"2021-12-26T15:01:13.799Z"}
+{"level":"error","message":"json is not defined","timestamp":"2021-12-26T15:01:27.985Z"}
+{"level":"error","message":"There is no such endpoint as /recordss","timestamp":"2021-12-26T15:22:59.272Z"}
+{"level":"error","message":"There is no such endpoint as /recordss","timestamp":"2021-12-26T15:23:59.393Z"}
+{"level":"error","message":"Records could not be fetched","timestamp":"2021-12-26T15:24:31.203Z"}
+{"level":"error","message":"\"startDate\" with value \"2016-01.26\" fails to match the YYYY-MM-DD pattern","timestamp":"2021-12-26T16:14:27.811Z"}
+{"level":"error","message":"Cannot read property 'status' of undefined","timestamp":"2021-12-26T17:21:21.190Z"}
+{"level":"error","message":"There is no such endpoint as /sss","timestamp":"2021-12-26T20:11:21.264Z"}
+{"level":"error","message":"There is no such endpoint as /recordss","timestamp":"2021-12-26T20:11:46.722Z"}
+{"level":"error","message":"\"minCount\" must be greater than or equal to 0","timestamp":"2021-12-26T20:14:00.326Z"}
+{"level":"error","message":"\"maxCount\" must be greater than or equal to 1","timestamp":"2021-12-26T20:14:09.637Z"}
