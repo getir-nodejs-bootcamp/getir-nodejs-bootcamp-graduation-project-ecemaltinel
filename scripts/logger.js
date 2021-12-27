@@ -1,5 +1,5 @@
 const winston = require('winston')
-const path = require("path");
+const path = require('path');
 
 //logs will be written in 2 different files --info/error--
 const logger = winston.createLogger({
