@@ -14,8 +14,8 @@ const app = express();
 
 app.use(express.json())
 
-app.listen(process.env.PORT, ()=>{
-    console.log(`Application is running on ${process.env.PORT}`)
+app.listen(process.env.PORT || 4200, ()=>{
+    console.log(`Application is running on ${process.env.PORT || 4200}`)
     app.get('/',(req,res)=>{
     console.log('Welcome!')
     res.status(httpStatus.OK).send('Welcome!')
