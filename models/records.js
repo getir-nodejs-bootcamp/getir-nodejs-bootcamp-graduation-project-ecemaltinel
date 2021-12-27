@@ -10,4 +10,4 @@ const RecordSchema = new Mongoose.Schema(
   }
 );
 
-module.exports = Mongoose.model("records", RecordSchema);
+module.exports = Mongoose.model("records", RecordSchema,"records");
